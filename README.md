@@ -12,3 +12,6 @@ Bienvenido al proyecto modpack de Drahgonia
 * Piedras de teletransporte
 * Dispositivos de seguridad para proteger tu casa
 * Sistema de almacenaje de experiencia
+* Nuevas cuevas tematicas
+* Compañeros de aventura que te daran nuevas habilidades
+* Puedes domesticar mobs hostiles en su etapa joven
